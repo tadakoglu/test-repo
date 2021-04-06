@@ -12,4 +12,5 @@ export class AppComponent {
   z = 'dört'
   k = 'beş'
   abcdfdfd='afdfdfd'
+  test = "dfdf"
 }
