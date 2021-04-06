@@ -11,4 +11,5 @@ export class AppComponent {
   y = 'canavar'
   z = 'dört'
   k = 'beş'
+  abcdfdfd='afdfdfd'
 }
